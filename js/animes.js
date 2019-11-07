@@ -26,5 +26,15 @@
 let animes = ['Death Note', 'Boku No Hero', 'Dragon Ball', 'Cavaleiros do Zodíaco', 'Naruto', 'Super Onze', 'Nazo No Kanojo']; // lista
 
 for (let e = 0; e < animes.length; e++){
-    console.log(animes[e]);
+    console.log([e]);
 }
+
+var a = "amarelo";
+var b = "azul";
+var c = "vermelho";
+var d = "rosa choque";
+
+let cores = ["amarelo", "azul", "vermelho", "rosa choque"]
+
+1. Criar uma lista com elementos dentro
+2. 
